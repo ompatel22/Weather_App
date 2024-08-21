@@ -12,3 +12,7 @@ A simple web application built using Java Servlets that allows users to check th
 - **Java Servlet**: Handles HTTP requests and responses to interact with the client-side form and the OpenWeather API.
 - **OpenWeather API**: Provides weather data for various cities.
 - **HTML/CSS**: Basic front-end implementation for user interaction.
+
+## Preview
+![image-1](Images/w1.png)
+![image-1](Images/w2.png)
