@@ -6,7 +6,6 @@ A simple web application built using Java Servlets that allows users to check th
 
 - **City Search**: Enter the name of a city to get the current weather information.
 - **Weather Data**: Displays temperature, weather conditions, and additional details fetched from the OpenWeather API.
-- **Error Handling**: Provides user-friendly error messages for invalid or missing city names.
 
 ## Technologies
 
