@@ -31,7 +31,7 @@ public class MyServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         // TODO Auto-generated method stub
         //API Key
-        String apiKey = "c440a14db91ad2248c55ec1ebb767d8d";
+        String apiKey = "enter-your-key!!";
         // Get the city from the form input
         String city = request.getParameter("cityname");
         String encodedCity = URLEncoder.encode(city, "UTF-8");
